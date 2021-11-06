@@ -67,7 +67,7 @@ return;
 处的值
 ```
 
-![image-20211106164545098](C:\Users\零`\AppData\Roaming\Typora\typora-user-images\image-20211106164545098.png)
+![image](https://user-images.githubusercontent.com/93515605/140609203-b77e0c9a-31da-4226-b5f0-a249e9b18024.png)
 
 //循环累次相加:
 
@@ -85,7 +85,7 @@ return p;
 
 //秦九韶算法:
 
-![image-20211106164717333](C:\Users\零`\AppData\Roaming\Typora\typora-user-images\image-20211106164717333.png)
+![image](https://user-images.githubusercontent.com/93515605/140609198-d910ccfa-9d7d-4aa1-8e03-95cfbc65832a.png)
 
 ```c
 double f( int n, double a[], double x )
